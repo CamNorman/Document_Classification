@@ -1,4 +1,4 @@
 Packages used: 
   Pipeline
-  Random forest 
-  Grid Search
+  Random Forest Classifier
+  Grid Search CV
